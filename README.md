@@ -39,13 +39,13 @@ To run GIF Snap locally, follow these steps:
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/GIF-Snap.git
+    git clone https://github.com/omgupta7352/gif-snap.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```sh
-    cd GIF-Snap
+    cd gif-snap
     ```
 
 3. **Open the index.html file in your browser:**
