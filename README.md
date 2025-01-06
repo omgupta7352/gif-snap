@@ -1,5 +1,6 @@
 # GIF Snap
-![GIF Snap](gifsnap.png)
+![GIF Snap](gifsnap1.png)
+![](gifsnap2.png)
 
 Welcome to **GIF Snap**! GIF Snap is a fun and interactive app that allows users to search for, capture, and share animated GIFs. Built using HTML, CSS, and JavaScript, this app provides a seamless experience for creating and sharing GIFs in real-time.
 
