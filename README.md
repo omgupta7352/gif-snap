@@ -31,7 +31,7 @@ Welcome to **GIF Snap**! GIF Snap is a fun and interactive app that allows users
 
 ## Demo
 
-Check out the live demo of **GIF Snap** [here](https://your-gifsnap-url.com).
+Check out the live demo of **GIF Snap** [here](https://gif-snap.netlify.app/).
 
 ## Installation
 
